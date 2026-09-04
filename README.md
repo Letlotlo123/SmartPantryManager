@@ -23,8 +23,7 @@ This project uses **SQLite**, implemented via `SQLiteOpenHelper`, for local on-d
 **Why SQLite:**
 - The app's use case (a personal pantry) doesn't need cloud sync or multi-device access, so a local database is sufficient and simpler
 - No server setup, API keys, or ongoing hosting costs
-- Full control over SQL queries, which made the strict-matching logic straightforward to implement and reason about
-- Directly aligned with the persistence approach covered in the Mobile App Development 700 module
+- Full control over SQL queries, which made the strict matching logic straightforward to implement and reason about
 
 Data persists across app restarts, and full CRUD (Create, Read, Update, Delete) is implemented for pantry items.
 
