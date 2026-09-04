@@ -1,6 +1,6 @@
 # Smart Pantry Manager
 
-A Java Android application that helps reduce food waste by tracking the ingredients a user actually has at home and suggesting recipes that can be made using **strictly** those ingredients — no shopping trip required.
+A Java Android application that helps reduce food waste by tracking the ingredients a user actually has at home and suggesting recipes that can be made using **strictly** those ingredients no shopping trip required.
 
 ## Problem it solves
 
